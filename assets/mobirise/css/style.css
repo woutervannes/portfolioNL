@@ -333,10 +333,6 @@ html {
     -o-transition: none;
     transition: none;
   }
-  .mbr-navbar--freeze.mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__hamburger,
-  .mbr-navbar--freeze.mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__hamburger:hover {
-    color: #fff !important;
-  }
 }
 .mbr-after-navbar:before {
   content: "";
@@ -1042,6 +1038,12 @@ html {
     clear: left;
   }
 }
+@media (max-width: 991px) {
+  .mbr-header--reduce .mbr-header__text {
+    padding-top: 1em;
+    margin-top: -1em;
+  }
+}
 .mbr-header {
   margin-top: -20px;
   padding: 0;
@@ -1103,6 +1105,8 @@ html {
     font-size: 16px;
     letter-spacing: 1px;
     line-height: 1.1em;
+    padding-top: 0.4em;
+    margin-top: -0.4em;
   }
 }
 .mbr-social-icons__icon {
