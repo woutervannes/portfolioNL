@@ -386,8 +386,11 @@
             $(document).click(function(e){
                 try {
                     var target = e.target;
+
                     if ($(target).parents().hasClass('mbr-gallery')) {
-                        return;
+                        if ($(target).parents().hasClass('carousel') || $(target).parent().is('a')) {
+                            return;                            
+                        }
                     }
                     do {
                         if (target.hash){
@@ -422,7 +425,7 @@
         var e = document.createElement("section");
         e.id = "top-1";
         e.className = "engine";
-        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v2.10';
+        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v2.11.1';
         document.body.insertBefore(e, document.body.childNodes[0]);
     }
 }();

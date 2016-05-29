@@ -50,14 +50,55 @@
 #menu-12 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#msg-box3-34 .mbr-header .mbr-header__text {
+  text-align: left;
+  font-size: 16px;
+  color: #ffffff;
+}
+#msg-box3-34 .mbr-header .mbr-header__subtext {
+  text-align: left;
+  font-size: 11px;
+  color: #ff3200;
+}
+#msg-box3-35 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-35 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-35 .mbr-article P {
+  font-size: 11px;
+  color: #ff3200;
+}
+#msg-box3-32 .mbr-header .mbr-header__text {
+  text-align: left;
+  font-size: 16px;
+  color: #ffffff;
+}
+#msg-box3-32 .mbr-header .mbr-header__subtext {
+  text-align: left;
+  font-size: 11px;
+  color: #ff3200;
+}
+#msg-box3-33 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-33 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-33 .mbr-article P {
+  font-size: 11px;
+  color: #ff3200;
+}
 #content5-60 .mbr-header .mbr-header__text {
   text-align: left;
   color: #efefef;
   font-size: 16px;
 }
 #content5-60 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
+  text-align: left;
+  color: #ff3200;
+  font-size: 11px;
 }
 #content5-60 .mbr-article {
   color: #fff;
@@ -87,8 +128,9 @@
   font-size: 16px;
 }
 #content5-62 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
+  text-align: left;
+  color: #ff3200;
+  font-size: 11px;
 }
 #content5-62 .mbr-article {
   color: #fff;
@@ -118,8 +160,9 @@
   font-size: 16px;
 }
 #content5-28 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
+  text-align: left;
+  color: #ff3200;
+  font-size: 11px;
 }
 #content5-28 .mbr-article {
   color: #fff;
@@ -140,6 +183,46 @@
   color: #fff;
 }
 #content5-29 .mbr-article P {
+  font-size: 11px;
+  color: #ff3200;
+}
+#msg-box3-42 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ffffff;
+  font-size: 16px;
+}
+#msg-box3-42 .mbr-header .mbr-header__subtext {
+  text-align: left;
+  font-size: 11px;
+  color: #ff3200;
+}
+#msg-box3-41 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-41 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-41 .mbr-article P {
+  font-size: 11px;
+  color: #ff3200;
+}
+#msg-box3-40 .mbr-header .mbr-header__text {
+  text-align: left;
+  font-size: 16px;
+  color: #ffffff;
+}
+#msg-box3-40 .mbr-header .mbr-header__subtext {
+  text-align: left;
+  color: #ff3200;
+  font-size: 11px;
+}
+#msg-box3-39 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-39 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-39 .mbr-article P {
   font-size: 11px;
   color: #ff3200;
 }
@@ -168,6 +251,29 @@
 #menu-21 .mbr-navbar__items a {
   font-family: 'Noto Sans', sans-serif;
   font-size: 11px;
+}
+#menu-21 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box3-45 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ffffff;
+  font-size: 16px;
+}
+#msg-box3-45 .mbr-header .mbr-header__subtext {
+  text-align: left;
+  font-size: 11px;
+  color: #ff3200;
+}
+#msg-box3-43 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #ffffff;
+  font-size: 16px;
+}
+#msg-box3-43 .mbr-header .mbr-header__subtext {
+  text-align: left;
+  font-size: 11px;
+  color: #ff3200;
 }
 #content5-65 .mbr-header .mbr-header__text {
   text-align: left;
@@ -314,6 +420,9 @@
 #menu-44 .mbr-navbar__items a {
   font-family: 'Noto Sans', sans-serif;
   font-size: 11px;
+}
+#menu-44 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #content5-50 .mbr-header .mbr-header__text {
   text-align: center;
